@@ -1,0 +1,169 @@
+1. http://www.panel.kantartns.lt/LT/akciya.html - Умови акції
+
+2. http://www.panel.kantartns.lt/LT/Authorization.html - Autorizavimas
+
+3. http://www.panel.kantartns.lt/LT/Authorization.html - Autorizavimas
+
+4. http://www.panel.kantartns.lt/LT/default_page.html - Redirect from here
+
+5. http://www.panel.kantartns.lt/LT/email-change-success.html - Сообщение успешной смены email
+
+6. http://www.panel.kantartns.lt/LT/email-change.html - Форма смены email
+
+7. http://www.panel.kantartns.lt/LT/FAQ.html - Питання що часто задаються
+
+8. http://www.panel.kantartns.lt/LT/Forbidden.html - Немає доступу
+
+9. http://www.panel.kantartns.lt/LT/Forma-rejestraciji.html - Форма реєстрації
+
+10. http://www.panel.kantartns.lt/LT/index.html - Перша сторінка
+
+11. http://www.panel.kantartns.lt/LT/Konfidencijnist.html - Конфіденційність
+
+12. http://www.panel.kantartns.lt/LT/Kontakty.html - Контакти
+
+13. http://www.panel.kantartns.lt/LT/Konvertacija-baliv.html - Конвертація балів
+
+14. http://www.panel.kantartns.lt/LT/login.html - Description of login
+
+15. http://www.panel.kantartns.lt/LT/Mapa-sajtu.html - Мапа сайту
+
+16. http://www.panel.kantartns.lt/LT/Mij-Opros.html - Мій Opros
+
+17. http://www.panel.kantartns.lt/LT/Misija-Opros.html - Місія TNS Opros
+
+18. http://www.panel.kantartns.lt/LT/Moji-baly.html - Мої бали
+
+19. http://www.panel.kantartns.lt/LT/My-Opros.html - KANTAR TNS Survey
+
+20. http://www.panel.kantartns.lt/LT/My-points-and-presents.html - Мої бали та подарунки
+
+21. http://www.panel.kantartns.lt/LT/My-survey.html - Поточні опитування
+
+22. http://www.panel.kantartns.lt/LT/Navishcho-rejestruvatys.html - Навіщо реєструватись
+
+23. http://www.panel.kantartns.lt/LT/new.html - Page
+
+24. http://www.panel.kantartns.lt/LT/news-rss.html - Description of News RSS
+
+25. http://www.panel.kantartns.lt/LT/Novyny.html - Новини
+
+26. http://www.panel.kantartns.lt/LT/Ostanni-novyny.html - Останні новини
+
+27. http://www.panel.kantartns.lt/LT/password-reminde-sended.html - Išsiunčiami slaptažodžio atkūrimo nurodymai
+
+28. http://www.panel.kantartns.lt/LT/Password-reminder.html - Відновлення паролю (форма вводу email)
+
+29. http://www.panel.kantartns.lt/LT/password-update-success.html - Новий пароль збережено
+
+30. http://www.panel.kantartns.lt/LT/password-updated-success.html - Новий пароль збережено
+
+31. http://www.panel.kantartns.lt/LT/Perevagy-Opros.html - Переваги TNS Opros
+
+32. http://www.panel.kantartns.lt/LT/Pidsumky-doslidzhen.html - Підсумки досліджень
+
+33. http://www.panel.kantartns.lt/LT/Plugin1.html - Плагин1
+
+34. http://www.panel.kantartns.lt/LT/Plugin.html - Плагин
+
+35. http://www.panel.kantartns.lt/LT/plugin_download.html - Скачать плагин
+
+36. http://www.panel.kantartns.lt/LT/Points--convertion.html - Конвертація балів
+
+37. http://www.panel.kantartns.lt/LT/popup.html - Page
+
+38. http://www.panel.kantartns.lt/LT/Potochni-proekty.html - Поточні проекти
+
+39. http://www.panel.kantartns.lt/LT/Pozhyva-dlya-rozdumiv.html - Пожива для роздумів
+
+40. http://www.panel.kantartns.lt/LT/Pravyla-uchasti.html - Правила участі
+
+41. http://www.panel.kantartns.lt/LT/Pro-Opros.html - Про TNS Opros
+
+42. http://www.panel.kantartns.lt/LT/Pro-TNS-ta-Opros.html - Про TNS та Opros
+
+43. http://www.panel.kantartns.lt/LT/Proekty.html - Проекти
+
+44. http://www.panel.kantartns.lt/LT/profile_poll.html - Профільна анкета
+
+45. http://www.panel.kantartns.lt/LT/project-complete-url.html - Завершення проекту
+
+46. http://www.panel.kantartns.lt/LT/project-complete.html - Завершення проекту
+
+47. http://www.panel.kantartns.lt/LT/ratings-auto.html - Рейтинги автомобільних сайтів
+
+48. http://www.panel.kantartns.lt/LT/ratings-news.html - Рейтинги новин
+
+49. http://www.panel.kantartns.lt/LT/ratings-sports.html - Рейтинги спорт
+
+50. http://www.panel.kantartns.lt/LT/recover.html - Recover access by phone
+
+51. http://www.panel.kantartns.lt/LT/registration-approved.html - Реєстрацію завершено остаточно, пароль збережено.
+
+52. http://www.panel.kantartns.lt/LT/registration.html - Mobile registration page app
+
+53. http://www.panel.kantartns.lt/LT/respondent-activate.html - Активація
+
+54. http://www.panel.kantartns.lt/LT/respondent-email-update.html - Page
+
+55. http://www.panel.kantartns.lt/LT/respondent-password-update.html - Оновлення паролю (форма для вводу нового паролю)
+
+56. http://www.panel.kantartns.lt/LT/respondent-registered-success.html - Реєстрацію завершено успішно
+
+57. http://www.panel.kantartns.lt/LT/respondent-registration-approve.html - Форма підтвердження реєстрації
+
+58. http://www.panel.kantartns.lt/LT/respondent-updated.html - Персональні дані оновлено
+
+59. http://www.panel.kantartns.lt/LT/Rezultaty-doslidzhen.html - Результати досліджень
+
+60. http://www.panel.kantartns.lt/LT/rss.html - News in RSS format
+
+61. http://www.panel.kantartns.lt/LT/sitemap.html - Description of sitemap
+
+62. http://www.panel.kantartns.lt/LT/Statystyka-vidviduvan.html - Статистика відвідувань
+
+63. http://www.panel.kantartns.lt/LT/Storinka-ne-znajdena.html - 404
+
+64. http://www.panel.kantartns.lt/LT/subscribe_confirm_thanks.html - subscribe_confirm_thanks
+
+65. http://www.panel.kantartns.lt/LT/subscribe_error.html - subscribe_error
+
+66. http://www.panel.kantartns.lt/LT/subscribe_error.html - subscribe_error
+
+67. http://www.panel.kantartns.lt/LT/subscribe_newsletter.html - subscribe_newsletter
+
+68. http://www.panel.kantartns.lt/LT/subscribe_newsletter.html - subscribe_newsletter
+
+69. http://www.panel.kantartns.lt/LT/subscribe_newsletter.html - subscribe_newsletter
+
+70. http://www.panel.kantartns.lt/LT/subscribe_thanks.html - subscribe_thanks
+
+71. http://www.panel.kantartns.lt/LT/survey-history.html - Apklausų istorija
+
+72. http://www.panel.kantartns.lt/LT/Systema-zaohochennya.html - Система заохочення
+
+73. http://www.panel.kantartns.lt/LT/test_cmeter.html - Page
+
+74. http://www.panel.kantartns.lt/LT/test_edit.html - test_edit page
+
+75. http://www.panel.kantartns.lt/LT/TNS-v-Ukrajini.html - TNS в Україні
+
+76. http://www.panel.kantartns.lt/LT/TNS_Browser.html - Page
+
+77. http://www.panel.kantartns.lt/LT/TNS_Top.html - Page
+
+78. http://www.panel.kantartns.lt/LT/unsubscribe_confirm_thanks.html - unsubscribe_confirm_thanks
+
+79. http://www.panel.kantartns.lt/LT/unsubscribe_newsletter.html - unsubscribe_newsletter
+
+80. http://www.panel.kantartns.lt/LT/unsubscribe_newsletter.html - unsubscribe_newsletter
+
+81. http://www.panel.kantartns.lt/LT/unsubscribe_newsletter.html - unsubscribe_newsletter
+
+82. http://www.panel.kantartns.lt/LT/unsubscribe_thanks.html - unsubscribe_thanks
+
+83. http://www.panel.kantartns.lt/LT/user-profile.html - Mano asmeninė informacija
+
+84. http://www.panel.kantartns.lt/LT/Vidpovidalnist.html - Відповідальність
+
+85. http://www.panel.kantartns.lt/LT/zaproshennya-nadislano-uspishno.html - Запрошення надіслано успішно

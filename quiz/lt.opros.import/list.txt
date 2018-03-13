@@ -1,0 +1,922 @@
+access-restoring-successful
+Вдале відновлення доступу
+Page
+access_restoring_success
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+akciya
+Умови акції
+Page
+int_simple
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Authorization
+Autorizavimas
+Page
+ap_login_form
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+Authorization
+Autorizavimas
+Page
+ap_login_form
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+default_page
+Redirect from here
+Page
+dflt
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+email-change-success
+Сообщение успешной смены email
+Page
+email_change_success
+2018-03-13 16:07:50
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+email-change
+Форма смены email
+Page
+ap_email_change
+2018-03-13 15:17:02
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+FAQ
+Питання що часто задаються
+Page
+faq
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Forbidden
+Немає доступу
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Forma-rejestraciji
+Форма реєстрації
+Page
+ap_respondent_register_form
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+index
+Перша сторінка
+Page
+index
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Konfidencijnist
+Конфіденційність
+Page
+int_simple
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Kontakty
+Контакти
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Konvertacija-baliv
+Конвертація балів
+Page
+points_convertion
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+login
+Description of login
+Page
+login
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Mapa-sajtu
+Мапа сайту
+Page
+ap_sitemap
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Mij-Opros
+Мій Opros
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Misija-Opros
+Місія TNS Opros
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Moji-baly
+Мої бали
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+My-Opros
+KANTAR TNS Survey
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+My-points-and-presents
+Мої бали та подарунки
+Page
+my_points_and_presents
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+My-survey
+Поточні опитування
+Page
+my_survey
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Navishcho-rejestruvatys
+Навіщо реєструватись
+Page
+int_why_register
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+new
+Page
+internal
+2017-11-09 12:52:21
+viktor
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+news-rss
+Description of News RSS
+Page
+rss_news
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Novyny
+Новини
+Page
+int_news
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+Ostanni-novyny
+Останні новини
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+password-reminde-sended
+Išsiunčiami slaptažodžio atkūrimo nurodymai
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Password-reminder
+Відновлення паролю (форма вводу email)
+Page
+ap_password_reminder
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+password-update-success
+Новий пароль збережено
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+password-updated-success
+Новий пароль збережено
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Perevagy-Opros
+Переваги TNS Opros
+Page
+int_advantages
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Pidsumky-doslidzhen
+Підсумки досліджень
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Plugin1
+Плагин1
+Page
+ap_plugin_form1
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+Plugin
+Плагин
+Page
+ap_plugin_form2
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+plugin_download
+Скачать плагин
+Page
+ap_plugin_form3
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+Points--convertion
+Конвертація балів
+Page
+detipoisk
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+popup
+Page
+anketa_standalone
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Cachable
+View Page
+EditDelete
+
+Potochni-proekty
+Поточні проекти
+Page
+current_projects
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Pozhyva-dlya-rozdumiv
+Пожива для роздумів
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Pravyla-uchasti
+Правила участі
+Page
+int_simple
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Pro-Opros
+Про TNS Opros
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Pro-TNS-ta-Opros
+Про TNS та Opros
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Proekty
+Проекти
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+profile_poll
+Профільна анкета
+Page
+anketa_profile
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Cachable
+View Page
+EditDelete
+
+project-complete-url
+Завершення проекту
+Page
+int_project_complete_by_url
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Cachable
+View Page
+EditDelete
+
+project-complete
+Завершення проекту
+Page
+int_project_complete
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+ratings-auto
+Рейтинги автомобільних сайтів
+Page
+int_ratings
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+ratings-news
+Рейтинги новин
+Page
+int_ratings
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+ratings-sports
+Рейтинги спорт
+Page
+int_ratings
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+recover
+Recover access by phone
+Page
+recover
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+registration-approved
+Реєстрацію завершено остаточно, пароль збережено.
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+registration
+Mobile registration page app
+Page
+mobile_register_form
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+respondent-activate
+Активація
+Page
+ap_respondent_activate
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+respondent-email-update
+Page
+email_update_success
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+respondent-password-update
+Оновлення паролю (форма для вводу нового паролю)
+Page
+ap_respondent_enter_password_remind
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+respondent-registered-success
+Реєстрацію завершено успішно
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+respondent-registration-approve
+Форма підтвердження реєстрації
+Page
+ap_respondent_enter_password_approv
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Not cachable
+View Page
+EditDelete
+
+respondent-updated
+Персональні дані оновлено
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Rezultaty-doslidzhen
+Результати досліджень
+Page
+int_investigations
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+rss
+News in RSS format
+Page
+rss_news
+2017-11-09 12:52:21
+Page Indexing Disabled
+Cachable
+View Page
+EditDelete
+
+sitemap
+Description of sitemap
+Page
+sitemap
+2017-11-09 12:52:21
+Page Indexing Disabled
+Cachable
+View Page
+EditDelete
+
+Statystyka-vidviduvan
+Статистика відвідувань
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Storinka-ne-znajdena
+404
+Page
+error_404
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_confirm_thanks
+subscribe_confirm_thanks
+Page
+subscribe_confirm_thanks
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_error
+subscribe_error
+Page
+subscribe_error
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_error
+subscribe_error
+Page
+subscribe_error
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_newsletter
+subscribe_newsletter
+Page
+subscription_form
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_newsletter
+subscribe_newsletter
+Page
+subscribe_newsletter
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_newsletter
+subscribe_newsletter
+Page
+subscribe_newsletter
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+subscribe_thanks
+subscribe_thanks
+Page
+subscribe_thanks
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+survey-history
+Apklausų istorija
+Page
+survey_history
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Systema-zaohochennya
+Система заохочення
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+test_cmeter
+Page
+test_cmeter
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
+
+test_edit
+test_edit page
+Page
+int_simple2
+2018-02-05 13:30:19
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+TNS-v-Ukrajini
+TNS в Україні
+Page
+internal
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+TNS_Browser
+Page
+TNS_Browser
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+TNS_Top
+Page
+TNS_Top
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+unsubscribe_confirm_thanks
+unsubscribe_confirm_thanks
+Page
+unsubscribe_confirm_thanks
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+unsubscribe_newsletter
+unsubscribe_newsletter
+Page
+unsubscription_form
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+unsubscribe_newsletter
+unsubscribe_newsletter
+Page
+unsubscribe_newsletter
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+unsubscribe_newsletter
+unsubscribe_newsletter
+Page
+unsubscribe_newsletter
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+unsubscribe_thanks
+unsubscribe_thanks
+Page
+unsubscribe_thanks
+2017-11-09 12:52:21
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+user-profile
+Mano asmeninė informacija
+Page
+ap_respondent_edit_profile_form
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+Vidpovidalnist
+Відповідальність
+Page
+int_simple
+2017-11-09 12:52:21
+Admin
+Page Indexing Enabled
+Cachable
+View Page
+EditDelete
+
+zaproshennya-nadislano-uspishno
+Запрошення надіслано успішно
+Page
+int_simple
+2017-11-09 12:52:21
+Admin
+Page Indexing Disabled
+Not cachable
+View Page
+EditDelete
